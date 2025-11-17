@@ -72,7 +72,15 @@ php artisan serve
 Buka browser: `http://localhost:8000`
 
 ## Screenshot
-(Tambahkan screenshot aplikasi di sini)
+
+### Halaman Daftar Recipe
+![Home](./public/screenshots/home.png)
+
+### Form Tambah Recipe
+![Create](./public/screenshots/create.png)
+
+### Detail Recipe
+![Detail](./public/screenshots/detail.png)
 
 ## Struktur Database
 
