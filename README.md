@@ -101,4 +101,4 @@ Buka browser: `http://localhost:8000`
 Open-source
 
 ## Author
-Siswa SMK Rekayasa Perangkat Lunak
+I'zas Bisma Arya cetta a.k.a Zenathan Diancora
